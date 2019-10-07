@@ -1,0 +1,148 @@
+.wpfi-content {
+
+  margin-top: 40px;
+
+  padding: 50px;
+
+  background: #ececee;
+
+  -webkit-box-shadow: 0px 0px 5px -3px rgba(41,41,41,1);
+
+  -moz-box-shadow: 0px 0px 5px -3px rgba(41,41,41,1);
+
+  box-shadow: 0px 0px 5px -3px rgba(41,41,41,1);
+  direction: ltr
+
+}
+
+
+
+.wpfi-import-form {
+
+  flex-wrap: wrap;
+
+  margin-top: 40px;
+
+  display: flex;
+
+  align-items: center
+
+}
+
+
+
+.wpfi-import-form label {
+
+  width: 10%;
+
+}
+
+
+
+.byLine{
+
+  font-size: 12px;
+
+  letter-spacing: 2px;
+
+  text-transform: uppercase;
+
+}
+
+
+
+.wpfiDirectory {
+
+  width: 80%;
+
+  text-align: left;
+
+}
+
+
+
+.statusCircleNotBusy {
+
+  width: 10px;
+
+  height: 10px;
+
+  border-radius: 100px;
+
+  background-color: #02d605;
+
+  animation: glow 1s infinite alternate;
+
+}
+
+
+
+@keyframes glow {
+
+  from {
+
+    box-shadow: 0 0 10px -10px #aef4af;
+
+  }
+
+  to {
+
+    box-shadow: 0 0 10px 10px #aef4af;
+
+  }
+
+}
+
+
+
+.statusText{
+
+  font-size: 15px !important;
+
+  color:#007bff;
+
+  margin-top: -4px !important;
+
+}
+
+
+
+.alert-secondary{
+
+  border-color: #b5b5b5 !important;
+
+}
+
+
+
+.statusCircleIsBusy {
+
+  width: 10px;
+
+  height: 10px;
+
+  border-radius: 100px;
+
+  background-color: #ed2602;
+
+  animation: glow1 1s infinite alternate;
+
+}
+
+
+
+@keyframes glow1 {
+
+  from {
+
+    box-shadow: 0 0 10px -10px #fa6464;
+
+  }
+
+  to {
+
+    box-shadow: 0 0 10px 10px #fa6464;
+
+  }
+
+}

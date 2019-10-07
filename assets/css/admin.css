@@ -1,0 +1,70 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.media-frame select.attachment-filters {
+  	max-width: 30% !important;
+	width: 320px !important;
+}
+.themedo-mediamatic-editcategory-filter {
+	  position: relative;
+	  z-index: 1;
+}
+.media-frame select,
+.wp-admin .media-frame .wpmediacategory-filter {
+  	margin-top: 11px;
+	max-width: 150px;
+}
+.attachments-browser .attachments-category,
+.attachments-browser .themedo-mediamatic-editcategory-filter {
+  display: none;
+}
+.compat-item tr.compat-field-mediamatic_wpfolder {
+  display: none;
+}
+
+
+/*
+.wp-admin.upload-php .update-nag, .updated{
+	display: none;
+}
+*/
+
+/* MEDIAMATIC FEEDBACK */
+.mediamatic-feedback-title{
+  font-weight: bold;
+}
+
+p.mediamatic-feedback-title {
+    margin: 8px 0;
+}
+
+#feedback-suggest-plugin, #feedback-description{
+  width: 100%;
+}
+
+.mediamatic-feedback-item, .mediamatic-feedback-title{
+  margin: 0;
+}
+
+.mediamatic-feedback-action{
+  margin-top: 10px;
+}
+
+.mediamatic-feedback-action button{
+  display: inline-flex !important;
+  vertical-align: middle !important;
+}
+
+.mediamatic-feedback-action #feedback-skip{
+  margin-left: 190px;
+  opacity: 0.8;
+  color: #555d66;
+  border:none;
+  background: none;
+  cursor: pointer;
+}
+
+
+

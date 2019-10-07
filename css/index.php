@@ -1,0 +1,2 @@
+<?php
+// Eat cookies
