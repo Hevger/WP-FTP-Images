@@ -3,8 +3,8 @@ A WordPress plugin to register FTP images/folders to use them directly in WordPr
 
 # Screenshots
 
-![enter image description here](https://raw.githubusercontent.com/Hevger/WP-FTP-Images/master/screenshots/WPFI.PNG)
-![enter image description here](https://raw.githubusercontent.com/Hevger/WP-FTP-Images/master/screenshots/WPFI%20Tree.PNG)
+![WPFI Interface](https://raw.githubusercontent.com/Hevger/WP-FTP-Images/master/screenshots/WPFI.PNG)
+![WPFI Folder tree](https://raw.githubusercontent.com/Hevger/WP-FTP-Images/master/screenshots/WPFI%20Tree.PNG)
 
 # Credits
 
