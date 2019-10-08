@@ -1,4 +1,4 @@
-# WPFI-WP-FTP-Images
+# WPFI - WP FTP Images
 A WordPress plugin to register FTP images/folders to use them directly in WordPress Media Library.  
 
 
